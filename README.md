@@ -1,2 +1,2 @@
-# DeepCellify - CNN models for scRNA-Seq patient startification
+# DeepCellify - CNN models for patient stratification using scRNA-Seq data
 
