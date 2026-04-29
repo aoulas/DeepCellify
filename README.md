@@ -1,6 +1,8 @@
 # DeepCellify - CNN models for patient stratification using scRNA-Seq data
 
-## Update                                                                                     |
+![Alt text](https://github.com/aoulas/DeepCellify/blob/main/DeepcellifyFlowChartNew.png "DeepCellify")
+
+## Update
 Mar 27, 2026 (Version 1.0.0)
 
 ## Capabilities
