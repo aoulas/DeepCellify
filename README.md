@@ -2,7 +2,11 @@
 
 ![Alt text](https://github.com/aoulas/DeepCellify/blob/main/DeepcellifyFlowChartNew.png "DeepCellify")
 
+<<<<<<< HEAD
 ## Update
+=======
+## Update                                                                                     |
+>>>>>>> 7a8707a9a219e31fe7b3ed041836e8dc4ba40c3b
 Mar 27, 2026 (Version 1.0.0)
 
 ## Capabilities
